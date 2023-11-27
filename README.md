@@ -35,7 +35,7 @@ Improved Decision-Making: The interactive Power BI dashboard empowered decision-
 
 Data Transparency: The project enhanced data transparency within the organization, making it easier for employees at all levels to access and understand the company's performance data.
 
-Data-Driven Culture: The project contributed to fostering a data-driven culture within  Adventure Works, emphasizing the importance of data analysis in strategic decision-making.
+Data-Driven Culture: The project contributed to fostering a data-driven culture within Adventure Works, emphasizing the importance of data analysis in strategic decision-making.
 
 In conclusion, the "Total Sales And Product Report of AdventureWorks" project successfully harnessed the capabilities of Power BI to transform raw data into actionable insights. This project not only provided valuable historical performance insights but also paved the way for a more data-informed approach to managing the company's operations.
 
